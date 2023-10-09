@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido a Mi Página Web</h1>
+    </header>
+
+    <section>
+        <h2>Sección 1</h2>
+        <p>¡Hola! Esta es mi primera página web. Aquí puedes poner cualquier contenido que desees.</p>
+    </section>
+
+    <section>
+        <h2>Sección 2</h2>
+        <p>Esta es otra sección de mi página. Puedes agregar más secciones según sea necesario.</p>
+        <ul>
+            <li>Elemento de lista 1</li>
+            <li>Elemento de lista 2</li>
+            <li>Elemento de lista 3</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2023 Mi Página Web</p>
+    </footer>
+
+</body>
+</html>
